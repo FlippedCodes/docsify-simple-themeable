@@ -1,6 +1,6 @@
-# Simple Themable
+# Simple Themeable
 
-A [docsify.js](https://github.com/docsifyjs/docsify) plugin to simplify the color selection for [docsify-themable](https://github.com/jhildenbiddle/docsify-themeable).
+A [docsify.js](https://github.com/docsifyjs/docsify) plugin to simplify the color selection for [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable).
 
 ## Installation and usage instructions
 
@@ -9,9 +9,9 @@ A [docsify.js](https://github.com/docsifyjs/docsify) plugin to simplify the colo
 
 How to install this plugin:
 
-1. Make sure you have [docsify-themable](https://github.com/jhildenbiddle/docsify-themeable) installed.
+1. Make sure you have [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) installed.
 2. Copy one of the stylesheet segments from below and copy it into the `head` section your `index.html` file. Make sure that is is after all other plugins and before your own modifications.
-3. Copy the color-files from [the example directory](https://github.com/FlippedCodes/docsify-simple-themable/tree/main/example) into your projects `_css/` folder.
+3. Copy the color-files from [the example directory](https://github.com/FlippedCodes/docsify-simple-themeable/tree/main/example) into your projects `_css/` folder.
 4. Change the colors in those files to your liking.
 
 ### Production
@@ -21,7 +21,7 @@ For production, please use the numbered version to prevent breaking changes in p
 ``` html
 <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="./_css/colors-dark.css">
 <link rel="stylesheet" media="(prefers-color-scheme: light)" href="./_css/colors-light.css">
-<link rel="stylesheet" href="https://unpkg.com/docsify-simple-themable@1.0.4/dist/main.min.css">
+<link rel="stylesheet" href="https://unpkg.com/docsify-simple-themeable@1.0.0/dist/main.min.css">
 ```
 
 ### Development
@@ -31,7 +31,7 @@ If you are developing on a doc, you can use the latest. Make sure you switch it 
 ``` html
 <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="./_css/colors-dark.css">
 <link rel="stylesheet" media="(prefers-color-scheme: light)" href="./_css/colors-light.css">
-<link rel="stylesheet" href="https://unpkg.com/docsify-simple-themable@latest/dist/main.min.css">
+<link rel="stylesheet" href="https://unpkg.com/docsify-simple-themeable@latest/dist/main.min.css">
 ```
 
 ## Tips
@@ -49,7 +49,7 @@ I'm always happy, if someone has improvements to this little plugin. If you want
 
 Nothing much here, but I'm planning to add the following features at some point:
 
-- [ ] Remove requirement for docsify-themable.
+- [ ] Remove requirement for docsify-themeable.
 
 ## License
 
