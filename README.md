@@ -11,9 +11,8 @@ How to install this plugin:
 
 1. Make sure you have [docsify-themable](https://github.com/jhildenbiddle/docsify-themeable) installed.
 2. Copy one of the stylesheet segments from below and copy it into the `head` section your `index.html` file. Make sure that is is after all other plugins and before your own modifications.
-3. Copy the example-files from [the source directory](https://github.com/FlippedCodes/docsify-simple-themable/tree/main/src) into your projects `_css/` folder.
-4. Rename them into `colors-dark.css` and `colors-light.css`
-5. Change the colors in those files to your liking.
+3. Copy the color-files from [the example directory](https://github.com/FlippedCodes/docsify-simple-themable/tree/main/example) into your projects `_css/` folder.
+4. Change the colors in those files to your liking.
 
 ### Production
 
