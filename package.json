@@ -1,18 +1,17 @@
 {
-  "name": "docsify-betterembed",
-  "version": "1.1.1",
-  "description": "A docsify.js plugin to embed selective areas from another markdown file.",
-  "main": "src/betterEmbed.js",
+  "name": "docsify-simple-themable",
+  "version": "1.0.0",
+  "description": "A docsify.js plugin to simplify the color selection for docsify-themable.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlippedCodes/docsify-betterembed.git"
+    "url": "git+https://github.com/FlippedCodes/docsify-simple-themable.git"
   },
   "keywords": [
     "docsify",
     "docsify.js",
     "plugin",
-    "embed",
-    "better embed"
+    "simple themable",
+    "themable"
   ],
   "author": "phil",
   "license": "MIT"
