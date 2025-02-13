@@ -1,4 +1,4 @@
-# Better Embed
+# Simple Themable
 
 A [docsify.js](https://github.com/docsifyjs/docsify) plugin to simplify the color selection for [docsify-themable](https://github.com/jhildenbiddle/docsify-themeable).
 
@@ -21,7 +21,7 @@ For production, please use the numbered version to prevent breaking changes in p
 ``` html
 <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="./_css/colors-dark.css">
 <link rel="stylesheet" media="(prefers-color-scheme: light)" href="./_css/colors-light.css">
-<link rel="stylesheet" href="https://unpkg.com/docsify-simple-themable@1.0.3/dist/main.min.css">
+<link rel="stylesheet" href="https://unpkg.com/docsify-simple-themable@1.0.4/dist/main.min.css">
 ```
 
 ### Development
