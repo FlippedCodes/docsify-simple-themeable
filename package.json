@@ -1,6 +1,6 @@
 {
   "name": "docsify-simple-themable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A docsify.js plugin to simplify the color selection for docsify-themable.",
   "repository": {
     "type": "git",

@@ -21,7 +21,7 @@ For production, please use the numbered version to prevent breaking changes in p
 ``` html
 <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="./_css/colors-dark.css">
 <link rel="stylesheet" media="(prefers-color-scheme: light)" href="./_css/colors-light.css">
-<link rel="stylesheet" href="https://unpkg.com/docsify-simple-themable@1.0.2/dist/main.min.css">
+<link rel="stylesheet" href="https://unpkg.com/docsify-simple-themable@1.0.3/dist/main.min.css">
 ```
 
 ### Development
@@ -39,6 +39,7 @@ If you are developing on a doc, you can use the latest. Make sure you switch it 
 - This project is inspired by the color pallet naming scheme of [daisyUI](https://daisyui.com/): You can use their [theme generator](https://daisyui.com/theme-generator/) to select colors.
 - If you think something on your docs should have a different color. You are more then welcome to copy the `src/main.css` into your `_css` folder as well. Just make sure you don't forget to adjust hte link in in the `head` section of your `index.html`!
 - If you already have a css files, you are free to change the folder location in the stylesheet references in `index.html`.
+- If you need additional fixes, feel free to copy my css file from [this repo]([_css/fixes.css](https://github.com/FlippedCodes/Anything-Computer-Docs/blob/main/_css/fixes.css)).
 
 ## Contributing
 
